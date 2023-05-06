@@ -16,7 +16,9 @@ sudo python3 controller.py    #This will take request from your ethernet instead
 sudo plot.html                #To visualise<br>
 </h5>
 
-<br>
+<br> 
+<h4> Example plot </h4>
+<img src="https://github.com/Stratonov16/DDoS/blob/main/Screenshot%20from%202023-05-06%2019-42-46.png">
 <p>
 The traffic filtering algorithm implemented in this code repository is designed to detect and mitigate TCP SYN flood attacks on fog devices. A SYN flood attack is a type of denial-of-service (DoS) attack in which an attacker sends a large number of SYN requests to a target device, but does not complete the connection process. This can cause the target device to become overwhelmed with half-open connections, making it unable to respond to legitimate traffic.
 </p>

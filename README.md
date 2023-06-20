@@ -27,3 +27,5 @@ The algorithm works by monitoring incoming traffic and analyzing the SYN packets
 <br>
 The implementation of this algorithm in the code repository includes several components, including packet capture, traffic analysis, and traffic mitigation. The code is written in a python and is designed to be easily integrated into existing fog device software stacks.
 <br>
+
+<a href="https://docs.google.com/document/d/1upoxNC8LrwFOGYQ0P7HgTmHNvGtSEkQM/edit?usp=sharing&ouid=102695271905885809587&rtpof=true&sd=true"> Results and Report</a>

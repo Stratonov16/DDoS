@@ -1,6 +1,9 @@
 <h4>author: Nikhil Sachdeva</h4>
 <h2>Title:  A traffic filtering approach to detect and mitigate TCP Syn flood attack. </h2>
 <h5>
+<br>
+<a href="https://docs.google.com/document/d/1upoxNC8LrwFOGYQ0P7HgTmHNvGtSEkQM/edit?usp=sharing&ouid=102695271905885809587&rtpof=true&sd=true"> Results and Final Report</a> <br>
+
 <h3>Run:  </h3>                                                                      
 python3 controller-final.py   #Take input from dataset and predict DDoS.<br>
 python3 results.py            #This will measure output and give accuracy.<br>
@@ -27,5 +30,3 @@ The algorithm works by monitoring incoming traffic and analyzing the SYN packets
 <br>
 The implementation of this algorithm in the code repository includes several components, including packet capture, traffic analysis, and traffic mitigation. The code is written in a python and is designed to be easily integrated into existing fog device software stacks.
 <br>
-
-<a href="https://docs.google.com/document/d/1upoxNC8LrwFOGYQ0P7HgTmHNvGtSEkQM/edit?usp=sharing&ouid=102695271905885809587&rtpof=true&sd=true"> Results and Report</a>
